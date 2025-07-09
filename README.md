@@ -2,7 +2,7 @@
 
 **Transformando ideias em experiências digitais.**
 
-![DesTech Studio Logo](./logo/logo1.png)
+![DesTech Studio Logo](./logo/logo1.jpg)
 
 A **DesTech Studio** é um estúdio de desenvolvimento web que une criatividade, design moderno e tecnologia avançada para criar **experiências digitais impactantes e funcionais**. Desenvolvemos interfaces com foco no usuário, desempenho e escalabilidade, utilizando tecnologias de ponta no front e no back-end.
 
